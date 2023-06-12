@@ -1,2 +1,14 @@
 # TansMOT
 MODELING HUMAN MEMORY IN MULTI-OBJECT TRACKING WITH TRANSFORMERS
+
+
+## 概述
+#### 1、论文复现 icassp 2022《MODELING HUMAN MEMORY IN MULTI-OBJECT TRACKING WITH TRANSFORMERS》。
+
+## 环境要求
+pytorch >=1.8.0
+## 运行步骤
+```
+# 运行main.py进行训练
+python main.py
+```
